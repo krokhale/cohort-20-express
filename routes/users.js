@@ -19,4 +19,7 @@ router.get('/something', function(req, res, next) {
 
 });
 
+// - Request types
+// - REST API
+
 module.exports = router;
